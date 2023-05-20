@@ -9,9 +9,9 @@ This package solves this problem by rewriting the form widget and its children t
 
 ## Features
 
-Form -> AsyncForm
-FormField -> AsyncFormField
-TextFormField -> AsyncTextFormField
+* AsyncForm: a rewrite version of flutter built-in Form widget.
+* AsyncFormField: a rewrite version of flutter built-in FormField widget.
+* AsyncTextFormField: a rewrite version of flutter built-in TextFormField widget.
 
 ## Getting started
 

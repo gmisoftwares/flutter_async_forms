@@ -1,6 +1,6 @@
 name: async_forms
-description: Rewrited flutter_forms package with async validation and more
-version: 0.0.2
+description: Rewritten flutter_forms package with async validation and more
+version: 0.0.3
 repository: https://github.com/odrya12/flutter_async_forms
 
 environment:

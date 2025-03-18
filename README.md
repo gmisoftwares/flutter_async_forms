@@ -1,6 +1,6 @@
 # Async Forms
 
-A rewrite version of flutter form with async validation and submission.
+A rewritten version of flutter form with async validation and submission.
 
 A common problem with flutter built-in forms is that you can't use async functions in the validator and onSaved functions.
 This might be a problem if you want to validate a field by making an http request or saving the form data to a database.
